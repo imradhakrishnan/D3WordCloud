@@ -1,0 +1,7 @@
+.mstrmojo-VIGallery .mstrmojo-VIGalleryList .item.ic-D3WordCloud > div > div {
+    background-image: url("../style/images/icon.png");
+    background-position: 0 0;
+}.mojo-theme-dark .mstrmojo-VIGallery .mstrmojo-VIGalleryList .item.ic-D3WordCloud > div > div {
+     background-image: url("../style/images/darkIcon.png");
+     background-position: 0 0;
+ }
